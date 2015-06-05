@@ -8,7 +8,7 @@ License-Url:
 Vendor: Orient Technologies 
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: jelastic
-Source-Url: https://github.com/tokarevs/openshift-jelastic-orientdb2.git 
+Source-Url: http://github.com/tokarevs/openshift-jelastic-orientdb2.git 
 Categories:
   - service
   - database
